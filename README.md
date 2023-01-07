@@ -5,7 +5,7 @@ Practise SQL queries and syntax for skill development
 In this notebook, I've created a database using SQLite3, and demonstrated my knowledge in SQL queries. 
 
 I've demonstrated knowledge in the following:
-<li> Comparison and logical functions like =, <, >, LIKE, IN, BETWEEN, NOT IN
+<li> Comparison and logical operators like =, <, >, LIKE, IN, BETWEEN, NOT IN
 <li> Sorting function eg: ORDER BY ASC or DSC
 <li> Aggregate functions like: Count, MIN, MAX, AVG, GROUP BY, ORDER BY
 <li> Using CASE functions for conditional analysis (WHEN ... THEN ... ELSE ... END)
